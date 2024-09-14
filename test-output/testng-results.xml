@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T22:25:19 IST" name="APISuite" finished-at="2024-09-13T22:25:23 IST" duration-ms="4591">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T22:25:19 IST" name="RestTests" finished-at="2024-09-13T22:25:23 IST" duration-ms="4591">
+      <class name="api.tests.UserTests2">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.tests.UserTests2@342c38f8]" started-at="2024-09-13T22:25:19 IST" name="setupData" finished-at="2024-09-13T22:25:20 IST" duration-ms="615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="createUserTest()[pri:1, instance:api.tests.UserTests2@342c38f8]" started-at="2024-09-13T22:25:20 IST" name="createUserTest" finished-at="2024-09-13T22:25:22 IST" duration-ms="2522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method signature="getUserDetailsTest()[pri:2, instance:api.tests.UserTests2@342c38f8]" started-at="2024-09-13T22:25:22 IST" name="getUserDetailsTest" finished-at="2024-09-13T22:25:22 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetailsTest -->
+        <test-method signature="updateUserTest()[pri:3, instance:api.tests.UserTests2@342c38f8]" started-at="2024-09-13T22:25:22 IST" name="updateUserTest" finished-at="2024-09-13T22:25:23 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserTest -->
+        <test-method signature="deleteUserTest()[pri:4, instance:api.tests.UserTests2@342c38f8]" started-at="2024-09-13T22:25:23 IST" name="deleteUserTest" finished-at="2024-09-13T22:25:23 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserTest -->
+      </class> <!-- api.tests.UserTests2 -->
+    </test> <!-- RestTests -->
+  </suite> <!-- APISuite -->
+</testng-results>
